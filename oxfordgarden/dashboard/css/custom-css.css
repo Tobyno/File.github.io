@@ -1,0 +1,16 @@
+.txt-sm{
+    font-size:13px;
+}
+.txt-md{
+    font-size:18px;
+}
+.txt-lg{
+    font-size:23px;
+}
+.txt-xlg{
+    font-size:28px;
+}
+
+.background-gray{
+    background: rgb(212, 209, 209);
+}
